@@ -10,7 +10,7 @@ def load_csv_from_url(
   filename: str = 'dataset.csv',
   timeout: int = 30,
   force_download: bool = False,
-) -> pd.DateFrame:
+) -> pd.DataFrame:
 
   """
     Download and load a CSV dataset from a public URL.
