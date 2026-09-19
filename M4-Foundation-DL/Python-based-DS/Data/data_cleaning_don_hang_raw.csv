@@ -1,0 +1,7 @@
+OrderID,Customer,City,Quantity,OrderDate
+O101,An,HCM,2,2026-09-01
+O102,Binh,HN,,2026-09-02
+O103,Chi,hcm,two,2026-09-03
+O104,Dung,Da Nang,3,2026-09-04
+O104,Dung,Da Nang,3,2026-09-04
+O105,Em,Ho Chi Minh,1,2026-09-05

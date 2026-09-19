@@ -1,0 +1,9 @@
+StudentID,Class,Score,AttendanceRate,ExamDate,Status
+S101,10A1,8.5,95%,2026-09-01,Completed
+S102,10a1,7.0,90%,2026/09/02,completed
+S103,10A2,NaN,88%,03-09-2026,Absent
+S104,10A2,9 points,92%,"Sep 04, 2026",Completed
+S104,10A2,9 points,92%,"Sep 04, 2026",Completed
+S105,10 A1,4.5,85%,2026-09-05,Completed
+S106,10A2,6.5,89%,2026-09-06,COMPLETED
+S107,10A3,5.5,80%,2026-09-07,Completed
