@@ -1,0 +1,3 @@
+[submodule "M4-Foundation-DL/Python-based-DS/M04W01 - Data Ingestion and Processing Using PySpark/data-ingestion-pipeline"]
+	path = M4-Foundation-DL/Python-based-DS/M04W01 - Data Ingestion and Processing Using PySpark/data-ingestion-pipeline
+	url = https://github.com/AIVIETNAM-AIO-HUYTRUONG/data-ingestion-pipeline.git
