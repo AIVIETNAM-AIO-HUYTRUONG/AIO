@@ -1,4 +1,4 @@
-[submodule "M4-Foundation-DL/Data Pipeline/M04W01 - Data Ingestion and Processing Using PySpark/incremental-batch-data-ingestion-pipeline"]
-	path = M4-Foundation-DL/Data Pipeline/M04W01 - Data Ingestion and Processing Using PySpark/incremental-batch-data-ingestion-pipeline
+[submodule "M4-Foundation-DL/Data Pipeline/Data Ingestion and Processing Using PySpark/incremental-batch-data-ingestion-pipeline"]
+	path = M4-Foundation-DL/Data Pipeline/W1/Data Ingestion and Processing Using PySpark/incremental-batch-data-ingestion-pipeline
 	url = https://github.com/AIVIETNAM-AIO-HUYTRUONG/incremental-batch-data-ingestion-pipeline.git
 	branch = main
